@@ -24,4 +24,4 @@ La popularidad de los videojuegos llevó al desarrollo de placas madre específi
 ### Conclusiones
 A lo largo de los años, las placas base han evolucionado significativamente, adaptándose a las necesidades cambiantes de la tecnología y los usuarios. Desde los primeros circuitos discretos hasta las sofisticadas placas madre de hoy, la evolución de la placa base ha sido fundamental para el desarrollo de la computación moderna. Esta tendencia hacia la integración y la mejora continua en el rendimiento y la conectividad probablemente seguirá impulsando la innovación en el futuro.
 
-Volver a [_Introducción_](Introducción.md).
+Volver a [_Introducción_](Introducción.md)
