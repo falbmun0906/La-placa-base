@@ -40,4 +40,4 @@ Los conectores de alimentación son elementos cruciales en la placa base de una 
 
 ---
 
-Volver a [_Introducción_](Introducción.md)
+Volver a [_Introducción_](introduccion.md)
