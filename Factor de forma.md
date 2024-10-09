@@ -55,4 +55,4 @@ El **factor de forma** de una placa base se refiere a las dimensiones físicas, 
 
 Elegir el factor de forma adecuado para una placa base es crucial para garantizar la compatibilidad con otros componentes del sistema y para satisfacer las necesidades específicas del usuario, ya sea para juegos, trabajo o aplicaciones multimedia.
 
-Volver a [_Introducción_](Introducción.md).
+Volver a [_Introducción_](Introducción.md)
