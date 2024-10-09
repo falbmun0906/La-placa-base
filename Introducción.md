@@ -12,3 +12,8 @@
 
 **Importancia:** La placa base determina la compatibilidad y el rendimiento del sistema, así como la posibilidad de futuras actualizaciones.
 
+Ir a:
+
+[_Evolución_](Evolución.md)
+[_Componentes_](Componentes.md)
+[_Factor de Forma_](Factor-de-forma.md)
