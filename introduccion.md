@@ -14,6 +14,6 @@
 
 Ir a:
 
-[_Evolución_](Evolución.md)  
-[_Componentes_](Componentes.md)  
-[_Factor de Forma_](Factor_de_forma.md)  
+[_Evolución_](evolucion.md)  
+[_Componentes_](componentes.md)  
+[_Factor de Forma_](factor_de_forma.md)  
