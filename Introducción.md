@@ -1,5 +1,7 @@
 # Placa Base (Placa Madre)
 
+![Imagen de una placa base](https://www.muycomputer.com/wp-content/uploads/2023/10/placas-base-ASUS-para-Intel-Core-Gen14.jpg)
+
 **Definición**: La placa base es un componente esencial de un ordenador que conecta y permite la comunicación entre todos los demás componentes del sistema, como el procesador, la memoria RAM, las tarjetas gráficas y los dispositivos de almacenamiento.
 
 #### Funciones Principales
